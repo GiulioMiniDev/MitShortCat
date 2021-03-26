@@ -1,4 +1,5 @@
 //https://www.youtube.com/watch?v=O269ctk5b5k
+//https://stackoverflow.com/questions/49612868/how-to-communicate-between-two-html-pages-via-javascript
 function copyText(htmlElement){
 
     if(!htmlElement){
