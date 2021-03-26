@@ -1,0 +1,18 @@
+function writeTextFile(code) {
+	var txtFile = new File("\mitter\res\codes.txt");
+	txtFile.open("w"); //
+	txtFile.writeln(code);
+	txtFile.close();
+}
+
+
+function readTextFile() {
+	var code = "";
+	var txtFile = new File("\mitter\res\codes.txt");
+	txtFile.open("r");
+	while (!txtFile.eof) {
+		// read each line of text
+		code += txtFile.readln() + "\n";
+	}
+	return str;
+}
