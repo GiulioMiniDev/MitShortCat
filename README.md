@@ -1,6 +1,9 @@
 _________________________________________ShortCat 4 Google Meet___________________________________________
 
-____HOW TO INSTALL__________________________________________________________________________________
+____HOW TO INSTALL__________________________________________________________________________________.
+
+I download li puoi trovare su RELEASES
+
 
 Chrome tutorial:
 > Estrai  la cartella "\mitter" dall'archivio "EstensioneChrome4Beach.zip"
